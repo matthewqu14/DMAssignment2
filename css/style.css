@@ -1,0 +1,9 @@
+.city_label {
+    font-size: 11px;
+    text-anchor: middle;
+}
+
+.circle {
+    fill: red;
+    stroke: black;
+}
